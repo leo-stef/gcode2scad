@@ -13,7 +13,6 @@ hull_polyline3d (
 '''
 
 fine_estrusione = '''
-surgit
     ]
 );
 
